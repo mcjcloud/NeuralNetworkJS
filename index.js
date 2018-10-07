@@ -1,3 +1,4 @@
+const math = require('mathjs');
 /*
  * NeuralNetwork.js - an object that handles the creation and training of a neural network
  */

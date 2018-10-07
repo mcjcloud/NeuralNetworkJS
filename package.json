@@ -9,7 +9,6 @@
   "author": "mcjcloud",
   "license": "MIT",
   "dependencies": {
-    "mathjs": "^5.0.4",
-    "matrix-js": "^1.4.0"
+    "mathjs": "^5.0.4"
   }
 }
