@@ -2,8 +2,10 @@
 NeuralNetworkJS is a simple library to demonstrate supervised learning with an Artificial Neural Network. The library allows you to create a NeuralNetwork object which represents a fully connected network of an arbitrary size.
 
 ## How to Install
-1. First clone the repository into the node_modules folder of your npm project: 
-`git clone https://github.com/mcjcloud/NeuralNetworkJS.git`. 
+1. First clone the repository into the node_modules folder of your npm project:
+
+`git clone https://github.com/mcjcloud/NeuralNetworkJS.git`
+
 2. Install the dependencies: `cd NeuralNetworkJS && npm install`
 
 ## How to Use
